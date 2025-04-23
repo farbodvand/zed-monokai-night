@@ -1,0 +1,7 @@
+id = "monokai-night"
+name = "Monokai Night"
+schema_version = 1
+version = "0.1.0"
+authors = ["farbodvand <pharbod95@gmail.com>"]
+description = "Monokai Night Theme"
+repository = "https://github.com/farbodvand/zed-monokai-night"
