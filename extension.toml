@@ -1,7 +1,7 @@
 id = "monokai-night"
-name = "Monokai Night"
+name = "🌃 A dark theme with two accents and vibrant syntax highlighting for Zed."
 schema_version = 1
-version = "0.1.0"
+version = "0.2.0"
 authors = ["farbodvand <pharbod95@gmail.com>"]
 description = "Monokai Night Theme"
 repository = "https://github.com/farbodvand/zed-monokai-night"
