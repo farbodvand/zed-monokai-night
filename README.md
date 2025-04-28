@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary>🎑 Monokai Midnight Soft</summary>
+  <summary>🎑 Monokai Night Soft</summary>
   <img src="./images/Monokai-Night-Soft.png" alt="Monokai Night Soft screenshot"/>
 </details>
 
@@ -37,6 +37,7 @@
 ### Activate the Theme
 1. Type `theme selector: toggle` and select _Monokai Night_ or _Monokai Night Soft_.
 
+## Editor settings
 | Setting        | Value                                                                                                                            |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Editor font    | [Hack](https://github.com/ghsgz/a-custom-Hack-Font 'Hack font') (modified version ["i", "1" and "0"])                            |
